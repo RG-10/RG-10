@@ -1,24 +1,110 @@
-# 💫 About Me:
-👋 Hi, I’m Usama Raheem, Most people call me Raheem<br>👀 I’m interested in Data science, Machine learning Algorithms, do Calligraphy in spare time.<br>🌱 I’m currently learning Python, Data Science concepts, EDA, Feature Engineering and Machine Learning Algorithms<br>💞️ I’m looking to collaborate on Data Science projects especially on EDA, Data Preprocessing and Model Training<br>📫 You can reach me at www.usama.r10@gmail.com
+[![MasterHead](assets/languages2.png)](https://RG-10.github.io)
+<h1 align="center">👋 hey there! 👋</h1>
+<h3 align="center">I'm Usama Raheem, a aspiring Data Scientist and Student from pakistan</h3>
+<img align="right" alt="Coding" widht="400" height="300" src="assets/data-scientist.gif" />
+
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=RG-10&label=Profile%20views&color=0e75b6&style=flat" alt="RG-10" /> 
+</p>
+
+- 💬 Ask me about **Python, Machine Learning and Data Science.**
+
+<br>
+
+- 🤔 Nowadays, I share public projects here and in my Personal Portfolio, which you can check out here: [RG-10.io](https://RG-10.github.io/index.html).
+
+<br>
+
+- 🔭 I'm currently working on **Data Science projects (Machine and Deep Learning), BioInformatics, Proteins Sequences.**
+
+- 💻 Oh, and I am on **Discord** too!
+
+<br>
+
+<img align="center" src="https://discord-readme-badge.vercel.app/api?id=584801134959394817" />
+
+<br><br>
+
+<a href="https://github.com/Jurredr/github-widgetbox">
+     <img width="100%" src="https://github-widgetbox.vercel.app/api/profile?username=RG-10x&data=followers,repositories,stars,commits&theme=aether" alt="GitHub WirdgetBox" />
+     <img width="100%" src="https://github-widgetbox.vercel.app/api/skills?languages=js,ts,java,python,html,css,r,xml,json,postgresql,mysql,markdown&tools=git,docker,npm,yarn,mongodb,wordpress,vercel,redis,nodejs,jupyter,prettier&frameworks=vue,react,express&software=linux,windows,vscode&includeNames=true&theme=aether" alt="GitHub WidgetBox" />
+</a>
+
+----
+
+<h3 align="left">🏆 Trophies</h3>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=csfelix&theme=discord&no-frame=true&margin-h=15&margin-w=15&column=5" alt="csfelix" /></a> </p>
+
+----
+
+<h3 align="left">💼 Working For</h3>
+
+<a href="https://www.fxsistemas.com.br" target="_blank"><img src="https://avatars.githubusercontent.com/u/73619303" alt="FX Sistemas App" height="40"/></a>
+
+----
+
+<h3 align="left">📇 Connect with me</h3>
+<p align="left">
+<a href="https://linkedin.com/in/csfelix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="csfelix" height="30" width="40" /></a>
+<a href="https://kaggle.com/dsfelix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="dsfelix" height="30" width="40" /></a>
+<a href="https://instagram.com/csfelix08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="csfelix08" height="30" width="40" /></a>
+<a href="mailto:csfelix08@gmail.com?" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height="30" width="40" /></a>
+</p>
+
+----
+
+<h3 align="left">💻 Account Stats</h3>
+
+<br>
+
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=csfelix&layout=compact&langs_count=8&theme=tokyonight" />
+  <br><br>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=csfelix&show_icons=true&theme=tokyonight&count_private=true" />
+  <br><br>
+  <img  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CSFelix&theme=tokyonight" />
+  <br><br>
+  <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=csfelix&theme=tokyo-night" />
+</div>
+
+----
+
+<h3 align="left">🌟 Fav Repos</h3>
+
+<div align="center">
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@usamaraheem_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/usama-raheem-7ba273143/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@RG-10) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/https://www.quora.com/profile/Usama-323) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/user:12153301) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/usamaraheem_) 
+  <a href="https://github.com/CSFelix/HTML-CSS-JAVASCRIPT-NODEJS-TUBEME"><img src="https://github-readme-stats.vercel.app/api/pin/?username=csfelix&repo=HTML-CSS-JAVASCRIPT-NODEJS-TUBEME&theme=tokyonight" alt="Repo" /></a>
+  
+  
+  <a href="https://github.com/CSFelix/PYTHON-OPENCV-WEBCAM-FACE-EYE-MOTION-DETECTION"><img src="https://github-readme-stats.vercel.app/api/pin/?username=csfelix&repo=PYTHON-OPENCV-WEBCAM-FACE-EYE-MOTION-DETECTION&theme=tokyonight" alt="Repo" /></a>
 
-# 💻 Tech Stack:
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=RG-10&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=RG-10&theme=midnight-purple&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RG-10&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=RG-10&theme=algolia&no-frame=false&no-bg=true&margin-w=4)
+  <a href="https://github.com/CSFelix/JAVA-JSP-CS-JAVASCRIPT-SHAREME"><img src="https://github-readme-stats.vercel.app/api/pin/?username=csfelix&repo=JAVA-JSP-CS-JAVASCRIPT-SHAREME&theme=tokyonight" alt="Repo" /></a>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-[![](https://visitcount.itsvg.in/api?id=RG-10&icon=0&color=0)](https://visitcount.itsvg.in)
+  <a href="https://github.com/CSFelix/CSHARP-RSA-ALGORITHM"><img src="https://github-readme-stats.vercel.app/api/pin/?username=csfelix&repo=CSHARP-RSA-ALGORITHM&theme=tokyonight" alt="Repo" /></a>
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+----
+
+<h3 align="left">🍺 Support Me</h3>
+<div align="center">
+  <a href="https://github.com/sponsors/CSFelix"><img alt="Coding" widht="200" height="200" src="assets/git-hub-sponsor.png" /></a>
+  <br><br>
+  <a href="https://www.buymeacoffee.com/csfelix08d"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" width="210" alt="csfelix08d"></a>
+</div>
+
+<br><br>
+
+----
+
+<br>
+
+<div align="center">
+  <img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight")](https://github.com/piyushsuthar/github-readme-quotes" />
+</div>
+
+<br>
+
+[![MasterHead](assets/languages.png)](https://csfelix.github.io)
