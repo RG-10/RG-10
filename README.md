@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on my FYP - Smart Protein Functions Predictor<br>Looking to collaborate on Data Science, Data Analytics Projects<br>Currently learning skill to make a perfect Shakshuka<br>Connect with me @ www.usama.r10@gmail.com<br><br>
+I'm currently working on my FYP - Smart Protein Functions Predictor<br>Looking to collaborate on Data Science, Data Analytics Projects<br>Learning skill to make a perfect Shakshuka<br>Connect with me @ www.usama.r10@gmail.com<br><br>
 
 
 ## 🌐 Socials:
