@@ -1,105 +1,27 @@
-[![MasterHead](assets/languages2.png)](https://rg-10.github.io)
-<h1 align="center">👋 'Salam, Merhaba, Bonjour, Hola, Ciao' 👋</h1>
-<h3 align="center">I'm Usama Raheem, an aspiring Data Analyst/Data Scientist and Student from Pakistan</h3>
-<img align="right" alt="Coding" widht="400" height="300" src="assets/data-scientist.gif" />
-
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=rg-10&label=Profile%20views&color=0e75b6&style=flat" alt="rg-10" /> 
-</p>
-
-- 💬 Ask me about **Python, ML/DL, Data Analytics and Data Science.**
-
-<br>
-
-- 🤔 Currently, I upload my Projects here & in my Personal Portfolio, which you can check out here: [RG-10.io](https://rg-10.github.io/index.html).
-
-<br>
-
-- 🔭 I'm actively working on **Data Science projects (ML/DL), DataAnalytics, DataViz and Story-Telling.**
-
-- 💻 Umm!, and I am on **Discord** too 
-
-<br>
-
-<img align="center" src="https://discord-readme-badge.vercel.app/api?id=584801134959394817" />
-
-<br><br>
-
-<a href="https://github.com/Jurredr/github-widgetbox">
-     <img width="100%" src="https://github-widgetbox.vercel.app/api/profile?username=rg-10&data=followers,repositories,stars,commits&theme=aether" alt="GitHub WirdgetBox" />
-     <img width="100%" src="https://github-widgetbox.vercel.app/api/skills?languages=java,python,html,css,r,mysql,markdown&tools=git,docker,mongodb,wordpress,vercel,jupyter,express&software=linux,windows,vscode&includeNames=true&theme=aether" alt="GitHub WidgetBox" />
-</a>
-
-----
-
-<h3 align="left">🏆 Trophies</h3>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rg-10&theme=discord&no-frame=true&margin-h=15&margin-w=15&column=5" alt="rg-10" /></a> </p>
-
-----
+# 💫 About Me:
+I'm currently working on my FYP - Smart Protein Functions Predictor<br>Looking to collaborate on Data Science, Data Analytics Projects<br>Learning skill to make a perfect Shakshuka<br>Connect with me @ www.usama.r10@gmail.com<br><br>
 
 
-<h3 align="left">📇 Connect with me</h3>
-<p align="left">
-<a href="https://linkedin.com/in/usamaraheem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="usamaraheem" height="30" width="40" /></a>
-<a href="https://kaggle.com/usamaraheem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="usamaraheem" height="30" width="40" /></a>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@usamaraheem_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/usama-raheem-7ba273143/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@RG-10) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Usama-323) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/RG-10) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/user:12153301) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/red) 
 
-<a href="mailto:www.usama.r10@gmail.com?" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height="30" width="40" /></a>
-</p>
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=RG-10&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=RG-10&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RG-10&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-----
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=RG-10&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
-<h3 align="left">💻 Account Stats</h3>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<br>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=RG-10&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
-<div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rg-10&layout=compact&langs_count=8&theme=tokyonight" />
-  <br><br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rg-10&show_icons=true&theme=tokyonight&count_private=true" />
-  <br><br>
-  <img  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RG-10&theme=tokyonight" />
-  <br><br>
-  <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=rg-10&theme=tokyo-night" />
-</div>
+---
+[![](https://visitcount.itsvg.in/api?id=RG-10&icon=0&color=0)](https://visitcount.itsvg.in)
 
-----
-
-<h3 align="left">🌟 Favorite Repositories</h3>
-
-<div align="center">
-
-
-  <a href="https://github.com/RG-10/DiabetesPredictionTermProject"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rg-10&repo=DiabetesPredictionTermProject&theme=tokyonight" alt="Repo" /></a>
-  
-  
-  <a href="https://github.com/RG-10/RG-Portfolio-Projects"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rg-10&repo=RG-Portfolio-Projects&theme=tokyonight" alt="Repo" /></a>
-
-
-  <a href="https://github.com/RG-10/RG-Data-Analysis "><img src="https://github-readme-stats.vercel.app/api/pin/?username=rg-10&repo=RG-Data-Analysis&theme=tokyonight" alt="Repo" /></a>
-
-
-  <a href="https://github.com/RG-10/RG-DSA-Practice"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rg-10&repo=RG-DSA-Practice&theme=tokyonight" alt="Repo" /></a>
-</div>
-
-----
-
-<h3 align="left">🍺 Support Me</h3>
-<div align="center">
-  <a href="https://github.com/sponsors/RG-10"><img alt="Coding" widht="200" height="200" src="assets/git-hub-sponsor.png" /></a>
-  <br><br>
-  <a href="https://www.buymeacoffee.com/rg-1008d"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" width="210" alt="rg-1008d"></a>
-</div>
-
-<br><br>
-
-----
-
-<br>
-
-<div align="center">
-  <img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight")](https://github.com/piyushsuthar/github-readme-quotes" />
-</div>
-
-<br>
-
-[![MasterHead](assets/languages.png)](https://rg-10.github.io)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
