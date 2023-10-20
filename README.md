@@ -15,7 +15,7 @@
 
 <be>
 
-- 🔭 My Focus on working in **Data Science(ML/DL/BioInformatics), Data Analytics (Dashboards, Tableau, PowerBI) and Business Intelligence (ETL, Reports, Summaries, Business Analysis).**
+- 🔭 My Focus on working in **Data Science**(ML/DL/BioInformatics), **Data Analytics** (Dashboards, Tableau, PowerBI) and **Business Intelligence** (ETL, Reports, Summaries, Business Analysis).
 
 - Also I am Learning skills to make a perfect **Shakshuka.**
 
