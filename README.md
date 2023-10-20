@@ -1,6 +1,23 @@
 [![MasterHead](assets/languages.png)](https://rg-10.github.io)
-# 💫 About Me:
-I'm currently working on my FYP - Smart Protein Functions Predictor<br>Looking to collaborate on Data Science and Data Analytics Projects<br>Learning skill to make a perfect Shakshuka<br>Connect with me @ www.usama.r10@gmail.com<br><br>
+<h1 align="center">👋 سلام، جی آیا نو👋</h1>
+<h3 align="center">I'm Usama Raheem, a Data Scientist from Pakistan </h3>
+<img align="right" alt="Coding" widht="400" height="300" src="assets/data-scientist.gif" />
+
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=csfelix&label=Profile%20views&color=0e75b6&style=flat" alt="csfelix" /> 
+</p>
+
+- 💬 Ask me about **Data Analytics, Business Intelligence, AI and Data Science.**
+
+<br>
+
+- 🤔 Recently, I published my Projects on this Platform and in my Portfolio, Have a look: [RG-10.io](https://rg-10.github.io/index.html).
+
+<be>
+
+- 🔭 My Focus on working in **Data Science(ML/DL/BioInformatics), Data Analytics (Dashboards, Tableau, PowerBI) and Business Intelligence (ETL, Reports, Summaries, Business Analysis).**
+
+- Also I am Learning skills to make a perfect **Shakshuka.**
 
 <a href="https://github.com/Jurredr/github-widgetbox">
      <img width="100%" src="https://github-widgetbox.vercel.app/api/profile?username=rg-10&data=followers,repositories,stars,commits&theme=aether" alt="GitHub WirdgetBox" />
