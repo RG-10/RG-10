@@ -28,11 +28,24 @@ I'm currently working on my FYP - Smart Protein Functions Predictor<br>Looking t
 </p>
 
 ----
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=RG-10&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=RG-10&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RG-10&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+# 📊 RG-10 Stats 2023:
+----
 
+<h3 align="left">💻 RG-10 Stats 2023</h3>
+
+<br>
+
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rg-10&layout=compact&langs_count=8&theme=tokyonight" />
+  <br><br>
+  
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rg-10&show_icons=true&theme=tokyonight&count_private=true&rank_icon=percentile" />
+  <br><br>
+  <img  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RG-10&theme=tokyonight" />
+</div>
+
+<!--
+----
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=RG-10&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
