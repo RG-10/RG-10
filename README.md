@@ -2,8 +2,8 @@
 I'm currently working on my FYP - Smart Protein Functions Predictor<br>Looking to collaborate on Data Science and data Analytics Projects<br>Learning skill to make a perfect Shakshuka<br>Connect with me @ www.usama.r10@gmail.com<br><br>
 
 <a href="https://github.com/Jurredr/github-widgetbox">
-     <img width="100%" src="https://github-widgetbox.vercel.app/api/profile?username=csfelix&data=followers,repositories,stars,commits&theme=aether" alt="GitHub WirdgetBox" />
-     <img width="100%" src="https://github-widgetbox.vercel.app/api/skills?languages=python,r,json,xml,mysql,postgresql,markdown,ts,js,html,css&libraries=tensorflow&tools=jupyter,redis,mongodb,git,nodejs,yarn,npm&frameworks=react,express&software=linux,windows,vscode&includeNames=true&theme=aether" alt="GitHub WidgetBox" />
+     <img width="100%" src="https://github-widgetbox.vercel.app/api/profile?username=rg-10&data=followers,repositories,stars,commits&theme=aether" alt="GitHub WirdgetBox" />
+     <img width="100%" src="https://github-widgetbox.vercel.app/api/skills?languages=python,r,mysql,postgresql,js,html,css&libraries=tensorflow&tools=jupyter,git,anaconda&frameworks=angular&software=linux,windows,vscode&includeNames=true&theme=aether" alt="GitHub WidgetBox" />
 </a>
 
 ## 🌐 Socials:
