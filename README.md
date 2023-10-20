@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on my FYP - Smart Protein Functions Predictor<br>Looking to collaborate on Data Science and data Analytics Projects<br>Learning skill to make a perfect Shakshuka<br>Connect with me @ www.usama.r10@gmail.com<br><br>
+I'm currently working on my FYP - Smart Protein Functions Predictor<br>Looking to collaborate on Data Science and Data Analytics Projects<br>Learning skill to make a perfect Shakshuka<br>Connect with me @ www.usama.r10@gmail.com<br><br>
 
 <a href="https://github.com/Jurredr/github-widgetbox">
      <img width="100%" src="https://github-widgetbox.vercel.app/api/profile?username=rg-10&data=followers,repositories,stars,commits&theme=aether" alt="GitHub WirdgetBox" />
@@ -47,8 +47,23 @@ I'm currently working on my FYP - Smart Protein Functions Predictor<br>Looking t
 
 ----
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+----
+
+<br>
+
+<div align="center">
+  <img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight")](https://github.com/piyushsuthar/github-readme-quotes" />
+</div>
+
+----
+
+<h3 align="left">👽 Visitors</h3>
+
+Counting of visitors to this page in this section started from September 1, 2023
+
+<img src="https://count.getloli.com/get/@RG-10.github.readme?theme=rule34" alt="Visitors" />
+
+<br>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=RG-10&limit=5&theme=radical&combine_all_yearly_contributions=true)
