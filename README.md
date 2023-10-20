@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" widht="400" height="300" src="assets/data-scientist.gif" />
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=csfelix&label=Profile%20views&color=0e75b6&style=flat" alt="csfelix" /> 
+  <img src="https://komarev.com/ghpvc/?username=rg-10&label=Profile%20views&color=0e75b6&style=flat" alt="rg-10" /> 
 </p>
 
 - 💬 Ask me about **Data Analytics, Business Intelligence, AI and Data Science.**
