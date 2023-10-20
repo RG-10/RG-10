@@ -28,9 +28,6 @@ I'm currently working on my FYP - Smart Protein Functions Predictor<br>Looking t
 </p>
 
 ----
-# 📊 RG-10 Stats 2023:
-----
-
 <h3 align="left">💻 RG-10 Stats 2023</h3>
 
 <br>
@@ -44,7 +41,6 @@ I'm currently working on my FYP - Smart Protein Functions Predictor<br>Looking t
   <img  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RG-10&theme=tokyonight" />
 </div>
 
-<!--
 ----
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=RG-10&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
